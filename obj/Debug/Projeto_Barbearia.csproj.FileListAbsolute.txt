@@ -1,0 +1,12 @@
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\bin\Debug\Projeto_Barbearia.exe.config
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\bin\Debug\Projeto_Barbearia.exe
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\bin\Debug\Projeto_Barbearia.pdb
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\obj\Debug\Projeto_Barbearia.Cad_Clientes.resources
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\obj\Debug\Projeto_Barbearia.Properties.Resources.resources
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\obj\Debug\Projeto_Barbearia.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\obj\Debug\Projeto_Barbearia.exe
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\obj\Debug\Projeto_Barbearia.pdb
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\obj\Debug\Projeto_Barbearia.Menu.resources
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\obj\Debug\Projeto_Barbearia.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\obj\Debug\Projeto_Barbearia.Cad_Prod_Serv.resources
+C:\Users\victo\OneDrive\Documentos\Projeto Barbearia\Projeto_Barbearia\obj\Debug\Projeto_Barbearia.Cad_Usuarios.resources
